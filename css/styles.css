@@ -1,5 +1,5 @@
 body {
-  background-color: #aee2ff;
+  background-color: #E3FDFD;
 }
 
 hr {
@@ -12,4 +12,12 @@ hr {
 
 img {
   height: 100px;
+}
+
+h1 {
+    color: #71C9CE;
+}
+
+h3 {
+    color: #71C9CE;
 }
